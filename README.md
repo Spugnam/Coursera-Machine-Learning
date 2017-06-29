@@ -1,4 +1,4 @@
 # Coursera-Machine-Learning
-Andrew Ng Coursera Machine Learning\n
-All assignments completed. \n
+Andrew Ng Coursera Machine Learning
+All assignments completed. 
 Used vectorized expressions as much as possible
